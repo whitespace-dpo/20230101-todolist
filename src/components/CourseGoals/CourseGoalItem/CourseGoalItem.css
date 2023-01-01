@@ -1,0 +1,14 @@
+.goal-item {
+  /* Color */
+  background: #008b33;
+  color: white;
+
+  /* Display & box-model */
+  margin: 1rem 0;
+  padding: 1rem 2rem;
+  border-radius: 5px;
+
+  /* Other */
+  box-shadow: rgba(4, 135, 20, 0.15) 1.95px 1.95px 2.6px;
+  cursor: pointer;
+}
